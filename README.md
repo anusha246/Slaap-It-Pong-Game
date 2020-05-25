@@ -48,9 +48,9 @@ In Single Player mode, the player uses the Player 1 controls to move the left pa
 
 ### Screenshots:
 
-![alt text](https://github.com/oxerz8/Slaap-it-/blob/master/Screenshots/Screenshot%20from%202019-03-19%2013-23-58.png)
+![Main Menu](https://github.com/anusha246/Slaap-It-Pong-Game/blob/master/Screenshots/Screenshot%20from%202019-03-19%2013-23-58.png)
 
-![alt text](https://github.com/oxerz8/Slaap-it-/blob/master/Screenshots/Screenshot%20from%202019-03-21%2018-07-04.png)
+![Gameplay](https://github.com/anusha246/Slaap-It-Pong-Game/blob/master/Screenshots/Screenshot%20from%202019-03-21%2018-07-04.png)
 
 
 ## Code Structure:
