@@ -1,6 +1,12 @@
 # Slaap it!
 The classic Pong game recreated using Python
 
+## My Contributions:
+
+- Implemented ball-paddle collision
+- Implemented the scoring system and resetting the ball for multiple rounds
+- Designed the user interface GUI for the main menu , win/lose screen, paddles, and scoring system
+
 ## Index
 
 ### Game Features:
@@ -83,7 +89,6 @@ button_x = pygame.draw.rect(window, (2,5,100), (150, 310, 200, 50))
 - Ashir Riaz
 
 - Pushti Gandhi
-
 
 
 ### License:
