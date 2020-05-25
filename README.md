@@ -5,7 +5,7 @@ The classic Pong game recreated using Python
 
 - Implemented ball-paddle collision
 - Implemented the scoring system and resetting the ball for multiple rounds
-- Designed the user interface GUI for the main menu , win/lose screen, paddles, and scoring system
+- Designed the user interface GUI for the main menu , win/lose screen, and scoring system
 
 ## Index
 
